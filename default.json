@@ -7,7 +7,7 @@
     "baw_pd_api_base_url": "https://centosbaw151:9444/rest/bpm/wle/pd/v1",
     "bpm_hostname": "ORA151.XYZ.COM",
     "bpm_db": "BPMDB01",
-    "pdw_hostname": "LEMUR01DBLXA.RJF.COM",
+    "pdw_hostname": "LEMCSEEREXA.DJF.COM",
     "pdw_db": "PDWDB01",
     "pdw_conn_user": "testuser",
     "pdw_schema": "pdwdb_owner",
